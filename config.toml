@@ -1,6 +1,5 @@
 #baseURL = "http://jyutping.hk"
 baseURL = "https://chaaklau.github.io/jyutping.hk"
-staticDir = "jyutping.hk"
 publishDir = "docs"
 languageCode = "en-us"
 
