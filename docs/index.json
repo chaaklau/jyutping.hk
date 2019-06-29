@@ -1,97 +1,97 @@
 [
 {
-	"uri": "http://jyutping.hk/components/onsets/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/components/onsets/",
 	"title": "Onsets",
 	"tags": [],
 	"description": "",
 	"content": "             b (巴) p (怕) m (媽) f (花)    d (打) t (他) n (那)  l (啦)   g (家) k (卡) ng (牙) h (蝦)    gw (瓜) kw (跨)   w (蛙)   z (渣) c (叉)  s (沙) j (也)    Note Null initial is not represented, e.g. \u0026ldquo;呀\u0026rdquo; is only spelt as \u0026ldquo;aa\u0026rdquo;.\n"
 },
 {
-	"uri": "http://jyutping.hk/about/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/about/",
 	"title": "About Jyutping",
 	"tags": [],
 	"description": "",
 	"content": " Jyutping an introduction "
 },
 {
-	"uri": "http://jyutping.hk/components/rimes/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/components/rimes/",
 	"title": "Rimes",
 	"tags": [],
 	"description": "",
 	"content": " Rimes can be further divided into two components, the Nucleus and the Coda.\nNucleus               aa (沙) i (詩/星/識) u(夫/風/福) e ( 些/四) o (疏/蘇) yu (書) oe (鋸)   a (新)      eo (詢)    Coda           p (濕) t (失) k (塞)   m (心) n (新) ng (生)    i (西/需) u (收)    Syllabic Nasals          m (唔) ng (吳)    "
 },
 {
-	"uri": "http://jyutping.hk/learn/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/learn/",
 	"title": "How to learn Jyutping",
 	"tags": [],
 	"description": "",
 	"content": " How to learn Jyutping Online games CantoRocks Youtube channels "
 },
 {
-	"uri": "http://jyutping.hk/components/tones/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/components/tones/",
 	"title": "Tones",
 	"tags": [],
 	"description": "",
 	"content": "              1 (夫/福) 2 (虎) 3 (副/霍) 4 (扶) 5 (婦) 6 (父/服)    Note Tone marks appear at the end of the syllables.\nExamples: fu1 (夫), fu2 (虎), fu3 (副), fu4 (扶), fu5 (婦), fu6 (父)\n"
 },
 {
-	"uri": "http://jyutping.hk/components/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/components/",
 	"title": "Components",
 	"tags": [],
 	"description": "",
 	"content": " Components A Cantonese syllable can be represented as a combination of the following components: an onset, a rime, a tone.\n"
 },
 {
-	"uri": "http://jyutping.hk/components/rime-table/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/components/rime-table/",
 	"title": "Rime Table",
 	"tags": [],
 	"description": "",
 	"content": " Rimes illustrated with characters\n                i 思 ip 攝 it 洩 ik 識 im 閃 in 先 ing 升  iu 消   yu 書  yut 雪   yun 孫      u 夫 up ut 闊 uk 福 um un 歡 ung 風 ui 灰    e 些 ep et ek 石 em en eng 鄭 ei 四 eu   eot 摔   eon 詢  eoi 需      oe 鋸  oet^ oek 腳   oeng 疆     o 可  ot 喝 ok 學  on 看 ong 康 oi 開 ou 好   a^ ap 汁 at 侄 ak 則 am 斟 an 珍 ang 增 ai 擠 au 周   aa 渣 aap 集 aat 扎 aak 責 aam 站 aan 讚 aang 掙 aai 齋 aau 嘲    Note ^ added in 2018\n"
 },
 {
-	"uri": "http://jyutping.hk/tools/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/tools/",
 	"title": "Tools",
 	"tags": [],
 	"description": "",
 	"content": " Online Dictionaries jyut.net This site lists out character pronunciations listed in different dictionaries. It is a good\nCharacter List for Primary School Students by The Hong Kong Education Bureau The website provides pronunciation, stroke order, and collocation for over 3000 characters in primary school Chinese curriculum.\nwords.hk This is a Cantonese-Cantonese and Cantonese-English dictaionary that provides example sentences in Jyutping. (Facebook login required.)\nInput Methods Rime CantoKey GBoard (for Android) jyutping.com References "
 },
 {
-	"uri": "http://jyutping.hk/about/whatis/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/about/whatis/",
 	"title": "What is Jyutping",
 	"tags": [],
 	"description": "",
 	"content": "Cantonese is usually written in Han characters (漢字). The written form does not provide informaiton as to how a character should be pronounced. For the purpose of language teaching and linguistic documentation, we need a way to accurately represent the sound of a word, and Jyutping fills the gap.\nJyutping is a standardised way to write out Cantonese sounds using only letters and numbers. Think of it as a way to spell Cantonese. It is easy to learn and systematic, making it an ideal tool in language teaching and information exchange.\n"
 },
 {
-	"uri": "http://jyutping.hk/about/history/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/about/history/",
 	"title": "History",
 	"tags": [],
 	"description": "",
 	"content": " Name The name \u0026ldquo;Jyutping\u0026rdquo; (粵拼, \u0026ldquo;Cantonese romanization\u0026rdquo;) is a word compound formed by the first characters of jyut6jyu5 (粵語, \u0026ldquo;Cantonese\u0026rdquo;) and ping3jam1 (拼音, \u0026ldquo;phonetic transcription\u0026rdquo;). The official name of the scheme is \u0026ldquo;The Linguistic Society of Hong Kong Cantonese Romanization Scheme\u0026rdquo;, and it is sometimes referred to as LSHK Jyutping.\nDevelopment Jyutping was devised by the Linguistic Society of Hong Kong in 1993, and was updated in 2018. It is currently maintained by the LSHK Jyutping Workgroup.\n"
 },
 {
-	"uri": "http://jyutping.hk/about/usecase/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/about/usecase/",
 	"title": "Use Cases",
 	"tags": [],
 	"description": "",
 	"content": "Jyutping is widely adopted in textbooks and dictionaries, see Tools for more details.\n"
 },
 {
-	"uri": "http://jyutping.hk/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/",
 	"title": "",
 	"tags": [],
 	"description": "",
 	"content": " Welcome to jyutping.hk Jyutping is a tool to represent Cantonese speech sound accurately using only letters and numbers. Find out more!\n"
 },
 {
-	"uri": "http://jyutping.hk/categories/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://jyutping.hk/tags/",
+	"uri": "https://chaaklau.github.io/jyutping.hk/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

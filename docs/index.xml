@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jyutping: a standardised romanisation scheme for Cantonese</title>
-    <link>http://jyutping.hk/</link>
+    <link>https://chaaklau.github.io/jyutping.hk/</link>
     <description>Recent content on Jyutping: a standardised romanisation scheme for Cantonese</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Jun 2019 21:39:32 +0800</lastBuildDate>
     
-	<atom:link href="http://jyutping.hk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chaaklau.github.io/jyutping.hk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Onsets</title>
-      <link>http://jyutping.hk/components/onsets/</link>
+      <link>https://chaaklau.github.io/jyutping.hk/components/onsets/</link>
       <pubDate>Sat, 29 Jun 2019 21:39:32 +0800</pubDate>
       
-      <guid>http://jyutping.hk/components/onsets/</guid>
+      <guid>https://chaaklau.github.io/jyutping.hk/components/onsets/</guid>
       <description>b (巴) p (怕) m (媽) f (花)    d (打) t (他) n (那)  l (啦)   g (家) k (卡) ng (牙) h (蝦)    gw (瓜) kw (跨)   w (蛙)   z (渣) c (叉)  s (沙) j (也)    Note Null initial is not represented, e.</description>
     </item>
     
     <item>
       <title>Rimes</title>
-      <link>http://jyutping.hk/components/rimes/</link>
+      <link>https://chaaklau.github.io/jyutping.hk/components/rimes/</link>
       <pubDate>Sat, 29 Jun 2019 21:39:44 +0800</pubDate>
       
-      <guid>http://jyutping.hk/components/rimes/</guid>
+      <guid>https://chaaklau.github.io/jyutping.hk/components/rimes/</guid>
       <description> Rimes can be further divided into two components, the Nucleus and the Coda.
 Nucleus               aa (沙) i (詩/星/識) u(夫/風/福) e ( 些/四) o (疏/蘇) yu (書) oe (鋸)   a (新)      eo (詢)    Coda           p (濕) t (失) k (塞)   m (心) n (新) ng (生)    i (西/需) u (收)    Syllabic Nasals          m (唔) ng (吳)    </description>
     </item>
     
     <item>
       <title>Tones</title>
-      <link>http://jyutping.hk/components/tones/</link>
+      <link>https://chaaklau.github.io/jyutping.hk/components/tones/</link>
       <pubDate>Sat, 29 Jun 2019 21:39:48 +0800</pubDate>
       
-      <guid>http://jyutping.hk/components/tones/</guid>
+      <guid>https://chaaklau.github.io/jyutping.hk/components/tones/</guid>
       <description>1 (夫/福) 2 (虎) 3 (副/霍) 4 (扶) 5 (婦) 6 (父/服)    Note Tone marks appear at the end of the syllables.
 Examples: fu1 (夫), fu2 (虎), fu3 (副), fu4 (扶), fu5 (婦), fu6 (父)</description>
     </item>
     
     <item>
       <title>Rime Table</title>
-      <link>http://jyutping.hk/components/rime-table/</link>
+      <link>https://chaaklau.github.io/jyutping.hk/components/rime-table/</link>
       <pubDate>Sat, 29 Jun 2019 21:40:03 +0800</pubDate>
       
-      <guid>http://jyutping.hk/components/rime-table/</guid>
+      <guid>https://chaaklau.github.io/jyutping.hk/components/rime-table/</guid>
       <description>Rimes illustrated with characters
                 i 思 ip 攝 it 洩 ik 識 im 閃 in 先 ing 升  iu 消   yu 書  yut 雪   yun 孫      u 夫 up ut 闊 uk 福 um un 歡 ung 風 ui 灰    e 些 ep et ek 石 em en eng 鄭 ei 四 eu   eot 摔   eon 詢  eoi 需      oe 鋸  oet^ oek 腳   oeng 疆     o 可  ot 喝 ok 學  on 看 ong 康 oi 開 ou 好   a^ ap 汁 at 侄 ak 則 am 斟 an 珍 ang 增 ai 擠 au 周   aa 渣 aap 集 aat 扎 aak 責 aam 站 aan 讚 aang 掙 aai 齋 aau 嘲    Note ^ added in 2018</description>
     </item>
     
     <item>
       <title>What is Jyutping</title>
-      <link>http://jyutping.hk/about/whatis/</link>
+      <link>https://chaaklau.github.io/jyutping.hk/about/whatis/</link>
       <pubDate>Sat, 29 Jun 2019 20:49:46 +0800</pubDate>
       
-      <guid>http://jyutping.hk/about/whatis/</guid>
+      <guid>https://chaaklau.github.io/jyutping.hk/about/whatis/</guid>
       <description>Cantonese is usually written in Han characters (漢字). The written form does not provide informaiton as to how a character should be pronounced. For the purpose of language teaching and linguistic documentation, we need a way to accurately represent the sound of a word, and Jyutping fills the gap.
 Jyutping is a standardised way to write out Cantonese sounds using only letters and numbers. Think of it as a way to spell Cantonese.</description>
     </item>
     
     <item>
       <title>History</title>
-      <link>http://jyutping.hk/about/history/</link>
+      <link>https://chaaklau.github.io/jyutping.hk/about/history/</link>
       <pubDate>Sat, 29 Jun 2019 20:50:14 +0800</pubDate>
       
-      <guid>http://jyutping.hk/about/history/</guid>
+      <guid>https://chaaklau.github.io/jyutping.hk/about/history/</guid>
       <description>Name The name &amp;ldquo;Jyutping&amp;rdquo; (粵拼, &amp;ldquo;Cantonese romanization&amp;rdquo;) is a word compound formed by the first characters of jyut6jyu5 (粵語, &amp;ldquo;Cantonese&amp;rdquo;) and ping3jam1 (拼音, &amp;ldquo;phonetic transcription&amp;rdquo;). The official name of the scheme is &amp;ldquo;The Linguistic Society of Hong Kong Cantonese Romanization Scheme&amp;rdquo;, and it is sometimes referred to as LSHK Jyutping.
 Development Jyutping was devised by the Linguistic Society of Hong Kong in 1993, and was updated in 2018. It is currently maintained by the LSHK Jyutping Workgroup.</description>
     </item>
     
     <item>
       <title>Use Cases</title>
-      <link>http://jyutping.hk/about/usecase/</link>
+      <link>https://chaaklau.github.io/jyutping.hk/about/usecase/</link>
       <pubDate>Sat, 29 Jun 2019 20:50:33 +0800</pubDate>
       
-      <guid>http://jyutping.hk/about/usecase/</guid>
+      <guid>https://chaaklau.github.io/jyutping.hk/about/usecase/</guid>
       <description>Jyutping is widely adopted in textbooks and dictionaries, see Tools for more details.</description>
     </item>
     
