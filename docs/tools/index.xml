@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Jyutping: a standardised romanisation scheme for Cantonese</title>
-    <link>https://chaaklau.github.io/jyutping.hk/tools/</link>
+    <link>http://jyutping.hk/tools/</link>
     <description>Recent content in Tools on Jyutping: a standardised romanisation scheme for Cantonese</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Jun 2019 19:15:48 +0800</lastBuildDate>
     
-	<atom:link href="https://chaaklau.github.io/jyutping.hk/tools/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jyutping.hk/tools/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
