@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Jyutping on Jyutping: a standardised romanisation scheme for Cantonese</title>
+    <link>http://jyutping.hk/about/</link>
+    <description>Recent content in About Jyutping on Jyutping: a standardised romanisation scheme for Cantonese</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jun 2019 19:05:59 +0800</lastBuildDate>
+    
+	<atom:link href="http://jyutping.hk/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Jyutping</title>
+      <link>http://jyutping.hk/about/whatis/</link>
+      <pubDate>Sat, 29 Jun 2019 20:49:46 +0800</pubDate>
+      
+      <guid>http://jyutping.hk/about/whatis/</guid>
+      <description>Cantonese is usually written in Han characters (漢字). The written form does not provide informaiton as to how a character should be pronounced. For the purpose of language teaching and linguistic documentation, we need a way to accurately represent the sound of a word, and Jyutping fills the gap.
+Jyutping is a standardised way to write out Cantonese sounds using only letters and numbers. Think of it as a way to spell Cantonese.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>http://jyutping.hk/about/history/</link>
+      <pubDate>Sat, 29 Jun 2019 20:50:14 +0800</pubDate>
+      
+      <guid>http://jyutping.hk/about/history/</guid>
+      <description>Name The name &amp;ldquo;Jyutping&amp;rdquo; (粵拼, &amp;ldquo;Cantonese romanization&amp;rdquo;) is a word compound formed by the first characters of jyut6jyu5 (粵語, &amp;ldquo;Cantonese&amp;rdquo;) and ping3jam1 (拼音, &amp;ldquo;phonetic transcription&amp;rdquo;). The official name of the scheme is &amp;ldquo;The Linguistic Society of Hong Kong Cantonese Romanization Scheme&amp;rdquo;, and it is sometimes referred to as LSHK Jyutping.
+Development Jyutping was devised by the Linguistic Society of Hong Kong in 1993, and was updated in 2018. It is currently maintained by the LSHK Jyutping Workgroup.</description>
+    </item>
+    
+    <item>
+      <title>Use Cases</title>
+      <link>http://jyutping.hk/about/usecase/</link>
+      <pubDate>Sat, 29 Jun 2019 20:50:33 +0800</pubDate>
+      
+      <guid>http://jyutping.hk/about/usecase/</guid>
+      <description>Jyutping is widely adopted in textbooks and dictionaries, see Tools for more details.</description>
+    </item>
+    
+  </channel>
+</rss>

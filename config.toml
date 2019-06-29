@@ -1,4 +1,5 @@
 baseURL = "http://jyutping.hk"
+publishDir = "docs"
 languageCode = "en-us"
 
 # Change the default theme to be use when building the site with Hugo
