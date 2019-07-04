@@ -1,4 +1,3 @@
 # Welcome to jyutping.hk
 
-Jyutping is a tool to represent Cantonese speech sound accurately using only letters and numbers. Find out more!
-歡迎光臨乜乜乜
+歡迎光臨粵拼網。本網將會介紹粵拼的各種教學資訊。
